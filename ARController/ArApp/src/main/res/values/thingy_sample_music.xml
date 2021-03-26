@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sample_music_array">
+        <item>Sample 0</item>
+        <item>Sample 1</item>
+        <item>Sample 2</item>
+        <item>Sample 3</item>
+        <item>Sample 4</item>
+        <item>Sample 5</item>
+        <item>Sample 6</item>
+        <item>Sample 7</item>
+        <item>Sample 8</item>
+    </string-array>
+</resources>
